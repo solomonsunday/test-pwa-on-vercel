@@ -1,0 +1,9 @@
+export * as AuthService from "./authService";
+export * as EventService from "./eventService";
+export * as TagService from "./tagService";
+export * as UserService from "./userService";
+export * as UtilityService from "./utilityService";
+export * as TicketService from "./ticketService";
+export * as PaymentService from "./paymentService";
+export * as UsersEventsService from "./usersEventsService";
+export * as SubscriptionService from "./subscriptionService";
